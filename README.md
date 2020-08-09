@@ -9,7 +9,6 @@ My decision to change my career path in early 2020 was not easily made, especial
 :soon: Responsive Web Design
 
 ## Let's Connect! :point_down:
-Twitter: [acyein](https://twitter.com/acyein)  
 LinkedIn: [angchianyein](https://www.linkedin.com/in/angchianyein)  
 
 *Stick around and watch this space grow!*
