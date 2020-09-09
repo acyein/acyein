@@ -7,9 +7,11 @@ The decision to change my career path in early 2020 was not easily made, especia
 ✔️: Python For Everybody ([Coursera](https://www.coursera.org/specializations/python?))  
 ✔️: [Web Developer Bootcamp](https://github.com/acyein/the-web-developer-bootcamp) ([Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/))  
 ✔️: [Responsive Web Design](https://github.com/acyein/responsive-web-design) ([freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/))  
-🚧: JavaScript Algorithms and Data Structures ([freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/))
+🔜: [Modern HTML & CSS From The Beginning (Including Sass)](https://github.com/acyein/modern-html-css) ([Udemy](https://www.udemy.com/course/modern-html-css-from-the-beginning/))  
+🔜: JavaScript Algorithms and Data Structures ([freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/))
 
 ## Let's Connect! 👇
 LinkedIn: [angchianyein](https://www.linkedin.com/in/angchianyein)  
+CodePen: [acyein](https://codepen.io/acyein)
 
 *Stick around and watch this space grow!*
