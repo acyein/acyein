@@ -1,23 +1,44 @@
-# **Yein**  
-Hi there! 👋 I'm an aspiring Web Developer with a background in Psychology 👩‍🎓.  
+# 👋 **Yein**  
+Hi there! 😄 I'm an aspiring Web Developer with a background in Psychology.  
 
 The decision to change my career path in early 2020 was not easily made, especially coming from a non-technical field. Still, envisioning myself contributing to the society in web development was the moment I realised my passion and potential to become who I want to be!
 
-## Learning Journey
-At the moment, I am comfortable with responsive web design but still need better understanding of the fundamentals of server-side programming and its application in web development.
+# Familiar With
+<img height="40" src="icons/sass.svg" alt="Sass icon">
+<img height="40" src="icons/bootstrap.svg" alt="Bootstrap icon">
+<img height="40" src="icons/javascript.svg" alt="JavaScript icon">
+<br>
+<img height="40" src="icons/nodejs.svg" alt="Node.js icon">
+<img height="40" src="icons/expressjs.png" alt="Express.js icon">
+<img height="40" src="icons/mongodb.png" alt="MongoDB icon">
+<br>
+<img height="40" src="icons/git.png" alt="Git icon">
+<img height="40" src="icons/vscode.svg" alt="VS Code icon">
+<img height="40" src="icons/canva.svg" alt="Canva icon">
 
-### Current
-🔜 [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://github.com/acyein/nodejs-the-complete-guide) [(Udemy)](https://www.udemy.com/course/nodejs-the-complete-guide/)  
-🔜 React - The Complete Guide (incl Hooks, React Router, Redux) [(Udemy)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+# Learning Journey
+## Current Courses
+🤓 [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://github.com/acyein/nodejs-the-complete-guide)  
+🔜 React - The Complete Guide (incl Hooks, React Router, Redux)  
 
-### Completed
-✔️ Python For Everybody ([Coursera](https://www.coursera.org/specializations/python?))  
-✔️ [Web Developer Bootcamp](https://github.com/acyein/the-web-developer-bootcamp) ([Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/))  
-✔️ [Responsive Web Design](https://github.com/acyein/responsive-web-design) ([freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/))  
-✔️ [Modern HTML & CSS From The Beginning (Including Sass)](https://github.com/acyein/modern-html-css) ([Udemy](https://www.udemy.com/course/modern-html-css-from-the-beginning/))
+## Completed Courses
+✔️ Python For Everybody  
+✔️ [Web Developer Bootcamp](https://github.com/acyein/the-web-developer-bootcamp)   
+✔️ [Responsive Web Design](https://github.com/acyein/responsive-web-design)  
+✔️ [Modern HTML & CSS From The Beginning (Including Sass)](https://github.com/acyein/modern-html-css)  
 
-## Let's Connect! 👇
-LinkedIn: [angchianyein](https://www.linkedin.com/in/angchianyein)  
-CodePen: [acyein](https://codepen.io/acyein)
+<br>
+<br>
 
-*Stick around and watch this space grow!*
+<div align="center">
+
+![Yein's github stats](https://github-readme-stats.vercel.app/api?username=acyein&include_all_commits=true&show_icons=true&theme=gotham)
+
+<em>Stick around and watch this space grow!</em>
+
+<a href="https://www.linkedin.com/in/angchianyein"><img height="25" src="icons/linkedin.svg" alt="LinkedIn icon"></a>
+<a href="https://codepen.io/acyein"><img height="25" src="icons/codepen.png" alt="CodePen icon"></a>
+
+</div>
+
+
