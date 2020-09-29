@@ -4,17 +4,7 @@ Hi there! 😄 I'm an aspiring Web Developer with a background in Psychology.
 The decision to change my career path in early 2020 was not easily made, especially coming from a non-technical field. Still, envisioning myself contributing to the society in web development was the moment I realised my passion and potential to become who I want to be!
 
 # Familiar With
-<img height="40" src="icons/sass.svg" alt="Sass icon">
-<img height="40" src="icons/bootstrap.svg" alt="Bootstrap icon">
-<img height="40" src="icons/javascript.svg" alt="JavaScript icon">
-<br>
-<img height="40" src="icons/nodejs.svg" alt="Node.js icon">
-<img height="40" src="icons/expressjs.png" alt="Express.js icon">
-<img height="40" src="icons/mongodb.png" alt="MongoDB icon">
-<br>
-<img height="40" src="icons/git.png" alt="Git icon">
-<img height="40" src="icons/vscode.svg" alt="VS Code icon">
-<img height="40" src="icons/canva.svg" alt="Canva icon">
+<img height="40" src="icons/sass.svg" alt="Sass icon"> <img height="40" src="icons/bootstrap.svg" alt="Bootstrap icon"> <img height="40" src="icons/javascript.svg" alt="JavaScript icon"> <img height="40" src="icons/nodejs.svg" alt="Node.js icon"> <img height="40" src="icons/expressjs.png" alt="Express.js icon"> <img height="40" src="icons/mongodb.png" alt="MongoDB icon"> <img height="40" src="icons/git.png" alt="Git icon"> <img height="40" src="icons/vscode.svg" alt="VS Code icon"> <img height="40" src="icons/canva.svg" alt="Canva icon">
 
 # Learning Journey
 ## Current Courses
