@@ -10,8 +10,9 @@ The decision to change my career path in early 2020 was not easily made, especia
 
 # Learning Journey
 ## Current Courses
-🤓 [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://github.com/acyein/nodejs-the-complete-guide)  
-🔜 React - The Complete Guide (incl Hooks, React Router, Redux)  
+👣 [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://github.com/acyein/nodejs-the-complete-guide)  
+👣 [React - The Complete Guide (incl Hooks, React Router, Redux)](https://github.com/acyein/react-the-complete-guide)  
+👣 The PHP Practitioner
 
 ## Completed Courses
 ✔️ Python For Everybody  
