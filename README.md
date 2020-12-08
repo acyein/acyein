@@ -1,13 +1,12 @@
 # 👋 **Yein**
-
 Hi there! 😄 I'm an aspiring Web Developer with a background in Psychology.
 
-The decision to change my career path in early 2020 was not easily made, especially coming from a non-technical field. Still, envisioning myself contributing to the society in web development was the moment I realised my passion and potential to become who I want to be!
+The decision to change my career path in early 2020 was not easily made, especially coming from a non-technical field. Still, envisioning myself contributing to the society in web development was the moment I realised my passion and potential to become who I want to be! 
 
 👉 Check out my [portfolio site](https://acyein.netlify.app/)!
 
-# Familiar With
-
+# Technologies
+## Comfortable With
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-black?logo=html5&logoColor=E34F26&style=for-the-badge">
   <img alt="CSS" src="https://img.shields.io/badge/css3-black?logo=css3&logoColor=1572B6&style=for-the-badge">
@@ -24,8 +23,7 @@ The decision to change my career path in early 2020 was not easily made, especia
   <img alt="Git" src="https://img.shields.io/badge/git-black?logo=git&logoColor=563D7C&style=for-the-badge">
 </p>
 
-# New To
-
+## New To
 <p>
   <img alt="React" src="https://img.shields.io/badge/react-black?logo=react&logoColor=61DAFB&style=for-the-badge">
   <img alt="PHP" src="https://img.shields.io/badge/php-black?logo=php&logoColor=777BB4&style=for-the-badge">
@@ -33,19 +31,16 @@ The decision to change my career path in early 2020 was not easily made, especia
 </p>
 
 # Learning Journey
-
 ## Current Courses
-
 🌱 [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://github.com/acyein/nodejs-the-complete-guide)  
 🌱 [React - The Complete Guide (incl Hooks, React Router, Redux)](https://github.com/acyein/react-the-complete-guide)  
-🌱 The PHP Practitioner
 
 ## Completed Courses
-
-✔️ Python For Everybody  
-✔️ [Web Developer Bootcamp](https://github.com/acyein/the-web-developer-bootcamp)  
+✔️ The PHP Practitioner  
+✔️ [Modern HTML & CSS From The Beginning (Including Sass)](https://github.com/acyein/modern-html-css)  
 ✔️ [Responsive Web Design](https://github.com/acyein/responsive-web-design)  
-✔️ [Modern HTML & CSS From The Beginning (Including Sass)](https://github.com/acyein/modern-html-css)
+✔️ [Web Developer Bootcamp](https://github.com/acyein/the-web-developer-bootcamp)  
+✔️ Python For Everybody  
 
 <br>
 <!-- <br> -->
