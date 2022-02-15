@@ -1,7 +1,7 @@
 # 👋 **Yein**
 Hi there! 😄 I'm a Psych graduate turned Front-end Web Developer. Took me 2 years to be where I am today!
 
-Currently there are lots of programming languages to learn, I personally picked Javascript to understand the fundamentals of web development. With consistent practice, I became proficient in building responsive websites using HTML, CSS, JavaScript. One of my main goals is to use my skills in front-end web development to strengthen the online presence of local businesses.
+There are many programming languages out there one can choose to learn, I personally picked Javascript to understand the fundamentals of web development. With consistent practice, I became confident in building responsive websites using HTML, CSS, JavaScript. One of my main goals is to use my skills in front-end web development to strengthen the online presence of local businesses.
 
 👉 Check out my [portfolio site](https://acyein.netlify.app/)!
 
