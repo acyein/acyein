@@ -20,7 +20,7 @@ Hi! I'm a psychology graduate turned web developer with a fire for frontend desi
 [![Technologies](https://skillicons.dev/icons?i=git 'Git')](https://skillicons.dev)
 [![Technologies](https://skillicons.dev/icons?i=vite 'Vite')](https://skillicons.dev)
 
-### Courses
+### Certifications
 
 🌱 ICT Upskill Programme  
 🌱 [The Web Developer Bootcamp](https://github.com/acyein/the-web-developer-bootcamp)  
