@@ -14,6 +14,9 @@ Hi! I'm a psychology graduate turned web developer with a fire for frontend desi
 [![Technologies](https://skillicons.dev/icons?i=js 'JavaScript')](https://skillicons.dev)
 [![Technologies](https://skillicons.dev/icons?i=jquery 'jQuery')](https://skillicons.dev)
 [![Technologies](https://skillicons.dev/icons?i=alpinejs 'Alpine.js')](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=vue 'Vue')](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=react 'React')](https://skillicons.dev)
+
 
 ### Tools
 
